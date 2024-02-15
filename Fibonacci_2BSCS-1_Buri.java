@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Fibonacci_Buri {
+public class Fibonacci_2BSCS-1_Buri {
 
     //main method
     @SuppressWarnings("resource")
